@@ -1,0 +1,26 @@
+﻿column_1
+Guidance on using the spreadsheet
+"This worksheet contains a short paragraph of text, followed by an image. Below the image is a small table on the left side and a second image on the right side."
+Contents 
+Default view
+"By default, tables 1 and 3-5 are filtered to show results for the latest year. To display results for other years, or to view a particular subset of the table (for example results for a particular industry for selected years) please see guidance below."
+""
+""
+""
+""
+""
+""
+""
+""
+""
+Column Menu
+"A: These are the column buttons. Left clicking on them brings up the column menu that allows you to select values (for example, the particular industry) that you want to display in your table."
+B: When a subset of values has been selected (for example a particular year) then the column button changes to this icon to show that a filter has been applied.
+"C: Left clicking on the column button displays the column menu. This menu allows you to select the field values to display in the table (for example, which years to display)."
+"To change the table view, for example to show data for different years or to view results for an individual industry, then you need to add or remove column filter(s)."
+"D: To remove a column filter, left click the corresponding column button then left click 'Clear Filter' in the column menu."
+"There are two ways of adding column filters, first:"
+E: Left click the corresponding column button and search for a particular value or category by typing into the search bar;
+"F: Left click the corresponding column button and select the individual values you wish to display using the tick boxes. 
+(Hint: if there are no filters currently applied to this field then all boxes will show as ticked. To clear the ticks from all boxes, click the 'Select All' tickbox before before selecting the values you wish to display. Similarly, if filters are currently applied, then you need to clear them first. This can be done by either following the guidance at D or clicking twice in the 'Select All'."
+"To return the table to its orginal order, sort alphabetically/smallest to largest by 'sort' column and then sort alphabetically by year."

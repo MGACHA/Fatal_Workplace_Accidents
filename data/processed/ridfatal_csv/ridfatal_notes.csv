@@ -1,0 +1,35 @@
+﻿column_1,column_2
+General notes applicable to all tables,
+This worksheet contains important background notes on the data as well as some table specific notes and explanation of the shorthand used. There are three tables vertically aligned in columns A and B.,
+Contents,
+Background notes on the data,
+Note code,Note text
+Note a,"Statistics presented in these tables are for work-related fatal injuries in Great Britain reportable under the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR).  For more information on RIDDOR see www.hse.gov.uk/statistics/sources.htm."
+Note b,"Table 1 and Tables 3-5 present annual reportable fatal injury statistics to workers (employees and self-employed) for the 5 years 2021/22 - 2025/26 along with the latest five-year total. The number of fatal injuries for some groupings are relatively small and are susceptible to considerable year-on-year variation so figures presented in the table need to be interpreted with care, particularly with respect to trends over time. The five-year rate essentially averages out the rate, smoothing out this year-on-year variation. "
+Note c,"Table 2 presents the number of annual reportable fatal injuries to Members of the Public for the 5 years 2021/22 - 2025/26 and includes deaths as a result of a work-related accident, though the injured person was 'not at work' themselves. It should be noted that these statistics of deaths to members of the public arising from work-related activities do not include such incidents to 'patient and service users' in England for premises registered with Care Quality Commission (CQC) "
+Note d,"Rates of injury: Differences in the size of the workforce will impact on comparisons of the number of fatal injuries, both over time and between one group and another within a year (e.g. between different industry groups).  In order to make comparisons between groups it is important to consider the rate of fatal injury.  The rate is constructed by dividing the count of injuries by the employment estimate.  This is then multiplied by a factor of 100,000 to give a rate per 100,000 workers, in line with international standards. The source of employment data used to construct the injury rates from 2004/05 onwards is the Annual Population Survey (APS). For more information see https://www.hse.gov.uk/statistics/assets/docs/sources.pdf. The rates are expressed to two decimal places."
+Note e,"For more information on statistics of work-related fatal injuries, see https://www.hse.gov.uk/statistics/fatals-overview.htm."
+Table specific notes,
+Note number,Note text
+Note 1,Figures for 2025/26 are at this stage provisional and are marked as 'p' in the tables.  They will be finalised in July 2027 following any necessary adjustments.  Figures for 2024/25 have been revised (finalised) and are marked as 'r' in the tables. The number of deaths in 2024/25 increased by 8 (4 workers and 4 members of the public) between the provisional and revised count. More details can be found in the revision log.
+Note 2,Standard Industrial Classification (SIC): The current system used in UK official statistics for classifying businesses by type of activity they are engaged in. 
+Note 3,Workers include both employees and self-employed.
+Note 4,"Rates are expressed per 100,000 workers (or employees / self-employed). See note d for more details."
+Note 5,Figures for SIC Division 38 'waste collection etc' are also included in the overall figures for the combined Section E.
+Note 6,Figures for SIC Section N 'administrative and support servive activities' are also included in the overall figures for the combined Sections J-N.
+Note 7,These incidents relate to deaths occurring on railways where a region can not be reliably assigned.
+Note 8,Includes records where either the incident location is unknown or of an offshore oil and gas nature. 
+Note 9,Excludes deaths to 'patients and service users' arising from a work-related activity in England in health and social care premises registered with the Care Quality Commission (CQC).
+Note 10,Numbers for 2021/22 are affected by the impacts of the coronavirus pandemic. This should be considered when comparing across time periods. For more details see our reports on the impact of the coronavirus pandemic on health and safety statistics.
+Note 11,The employment data used to calculate rates includes those temporarily absent from work. In 2021/22 the number of such workers was higher than previous years due to temporary employment schemes (e.g. furlough) introduced during the coronavirus pandemic. This has contributed to a discontinuity in injury rates.  
+Note 12,"Area codes are in 9 character format, operative from 1 January 2011. "
+Note 13,UK administrative area type
+Note 14,Years run from 1 April to 31 March e.g. 2021/22 relates to the period 1 April 2021 to 31 March 2022.
+Note 15,"Including work-related fatal injuries to workers on railways (mainline rail, London Underground, and other non-mainline networks (trams, metros, other light rail, minor and heritage railways)) for which Office of Rail and Road are the main Enforcing Authority."
+Note 16,"Including work-related fatal injuries to members of the public on railways (mainline rail, London Underground, and other non-mainline networks (trams, metros, other light rail, minor and heritage railways)) for which Office of Rail and Road (ORR) are the main Enforcing Authority. The data, provided by ORR, differs slightly from their annual Rail Safety statistical release which covers a wider scope including some fatalities that are not work-related."
+Note 17,Excludes sea fishing
+Note 18,"To return the table to its orginal order, sort alphabetically/smallest to largest by 'sort' column and then sort alphabetically by year."
+Symbols used in tables,
+Symbol,Symbol note
+[u],Unavailable as sample numbers are too small to provide a reliable employment estimate needed for calculation of rate. 
+[z],Not applicable as there is no appropriate employment estimate.
