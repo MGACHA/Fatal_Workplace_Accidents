@@ -57,7 +57,7 @@ The source data is distributed by Eurostat and HSE. Check each source for defini
 
 ## Getting Started
 
-Use Python 3.9 or newer. From the repository root, create and activate a virtual environment, then install the notebook dependencies:
+Python 3.9, then install the notebook dependencies:
 
 ```bash
 python -m venv .venv
@@ -67,13 +67,6 @@ Windows PowerShell:
 
 ```powershell
 .venv\Scripts\Activate.ps1
-python -m pip install pandas numpy matplotlib seaborn openpyxl requests jupyter
-```
-
-macOS or Linux:
-
-```bash
-source .venv/bin/activate
 python -m pip install pandas numpy matplotlib seaborn openpyxl requests jupyter
 ```
 
